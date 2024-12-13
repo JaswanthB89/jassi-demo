@@ -1,3 +1,3 @@
 # jassi-demo
 This is my first project
-Author - Jaswanth
+Author - Jaswanth B
